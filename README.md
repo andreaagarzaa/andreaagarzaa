@@ -25,10 +25,31 @@ Led the development of an intuitive mobile app using **SwiftUI** to meet the spe
 ---
 
 ## 🛠️ Technologies I Work With:
-- **Languages**: C++, Python, SQL, JavaScript, TypeScript
-- **Frameworks**: React, Next.js, SwiftUI
-- **Tools**: Git, Docker, PostgreSQL, Figma, Jira, Trello
-- **Machine Learning**: Scikit-learn, Pandas, TensorFlow
+
+### **Languages**:
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### **Frameworks**:
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+### **Tools**:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+- ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+### **Machine Learning**:
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 
 ---
 
