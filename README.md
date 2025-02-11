@@ -56,7 +56,6 @@ Led the development of an intuitive mobile app using **SwiftUI** to meet the spe
 ## 💬 Let's Connect:
 - **Email**: [andreaagarzax@gmail.com](mailto:andreaagarzax@gmail.com)
 - **LinkedIn**: [andreaagarzaa](https://linkedin.com/in/andreaagarzaa)
-- **GitHub**: [andreaagarzaa](https://github.com/andreaagarzaa)
 
 ---
 
